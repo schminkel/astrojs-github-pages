@@ -1,5 +1,5 @@
 
-const ContentContainer = () => {
+const ReactContent = () => {
   return (
     <>
       <h3>Header from React Component</h3>
@@ -7,4 +7,4 @@ const ContentContainer = () => {
       );
 };
 
-export default ContentContainer;
+export default ReactContent;
