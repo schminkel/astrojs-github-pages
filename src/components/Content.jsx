@@ -2,7 +2,7 @@
 const ContentContainer = () => {
   return (
     <>
-      <h1>Header from React Component</h1>
+      <h3>Header from React Component</h3>
     </>
       );
 };
