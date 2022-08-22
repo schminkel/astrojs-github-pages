@@ -1,7 +1,6 @@
 # Project Links
 
 * [Github Source](https://github.com/schminkel/astrojs-github-pages)
-
 * [Github Pages Link](https://schminkel.github.io/astrojs-github-pages/)
 
 ## Welcome to [Astro](https://astro.build)
