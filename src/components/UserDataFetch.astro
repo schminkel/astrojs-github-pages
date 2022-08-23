@@ -3,7 +3,7 @@ const response = await fetch('https://dummyjson.com/users/');
 const data = await response.json();
 const users = data.users;
 const date = new Date();
-let updated = date.toLocaleString("en-DE", {timeZone: "Europe/Berlin"});
+let updated = date.toLocaleString('de-DE', {timeZone: 'Europe/Berlin'});
 ---
 
 <!-- Data fetched at build can be rendered in HTML -->
